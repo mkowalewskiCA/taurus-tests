@@ -359,3 +359,7 @@ modules:
     workspace: App Group 2
     project: Taurus tests
     test: Selenium-JMeter-Build Example
+  blazemeter:
+    address: https://bzm-web.bzm-presales.com
+    data-address: https://bzm-web.bzm-presales.com
+    token: 59cda1b1bcc8add294b5f9d8:378dfe6e71389632eadce4e4e169c94c4d35d1bf219c947b43655a5d151271b558cd3a78
